@@ -9,8 +9,3 @@ results = soup.find(id="ResultsContainer")
 print(results.prettify())
 
 print(page.text)
-
-print("test statement!!!")
-print("second test try")
-print("Trying to push")
-print("commit again")
