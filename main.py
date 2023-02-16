@@ -8,13 +8,6 @@ soup = BeautifulSoup(page.content, "html.parser")
 results = soup.find(id="ResultsContainer")
 print(results.prettify())
 
-print(page.text)
-
-print("herere")
-
-print("here")
-
-print("change")
 
 
 
