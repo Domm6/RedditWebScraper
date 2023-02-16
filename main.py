@@ -10,7 +10,3 @@ print(results.prettify())
 
 print("first statement")
 
-print("second statement")
-
-
-
