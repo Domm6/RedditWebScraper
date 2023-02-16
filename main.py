@@ -8,8 +8,9 @@ soup = BeautifulSoup(page.content, "html.parser")
 results = soup.find(id="ResultsContainer")
 print(results.prettify())
 
+print("first statement")
 
-
+print("second statement")
 
 
 
