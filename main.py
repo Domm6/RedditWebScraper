@@ -10,8 +10,7 @@ print(results.prettify())
 
 print(page.text)
 
-print("hopefull fixed")
-print("Commit issues should now be fixed")
+print("printing some mroe for the git")
 
-
+print("this better update")
 
